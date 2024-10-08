@@ -1,0 +1,6 @@
+{
+    "keys": [
+      "tetra:modular_toolbelt"
+    ],
+    "soundEvent": "minecraft:item.armor.equip_leather"
+  }

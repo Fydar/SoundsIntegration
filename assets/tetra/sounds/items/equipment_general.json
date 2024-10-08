@@ -1,0 +1,11 @@
+{
+    "keys": [
+      "tetra:modular_sword",
+      "tetra:modular_single",
+      "tetra:modular_double",
+      "tetra:modular_bow",
+      "tetra:modular_crossbow",
+      "tetra:modular_shield"
+    ],
+    "soundEvent": "minecraft:item.armor.equip_generic"
+  }

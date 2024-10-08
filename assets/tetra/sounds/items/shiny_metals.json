@@ -1,0 +1,9 @@
+{
+    "keys": [
+      "tetra:pristine_amethyst",
+      "tetra:pristine_emerald",
+      "tetra:pristine_lapis",
+      "tetra:pristine_diamond"
+    ],
+    "soundEvent": "minecraft:block.amethyst_cluster.hit"
+  }

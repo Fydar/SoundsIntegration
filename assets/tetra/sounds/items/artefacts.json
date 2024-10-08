@@ -1,0 +1,7 @@
+{
+    "keys": [
+      "tetra:earthpiercer",
+      "tetra:stonecutter"
+    ],
+    "soundEvent": "minecraft:block.netherite_block.break"
+  }

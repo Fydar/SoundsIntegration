@@ -1,0 +1,6 @@
+{
+    "keys": [
+      "tetra:geode"
+    ],
+    "soundEvent": "minecraft:block.decorated_pot.step"
+  }

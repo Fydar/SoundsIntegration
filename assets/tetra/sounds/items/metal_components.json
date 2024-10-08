@@ -1,0 +1,14 @@
+{
+    "keys": [
+      "tetra:forged_beam",
+      "tetra:forged_bolt",
+      "tetra:quick_latch",
+      "tetra:metal_scrap",
+      "tetra:vent_plate",
+      "tetra:planar_stabilizer",
+      "tetra:lubricant_dispenser",
+      "tetra:combustion_chamber",
+      "tetra:thermal_cell"
+    ],
+    "soundEvent": "minecraft:block.netherite_block.break"
+  }
