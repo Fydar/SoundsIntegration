@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "witheringboon:meldedgeode",
+    "witheringboon:witheredsoulstone",
+    "witheringboon:chalcanthite",
+    "witheringboon:citrine"
+  ],
+  "soundEvent": "minecraft:block.decorated_pot.step"
+}

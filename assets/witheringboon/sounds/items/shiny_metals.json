@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "witheringboon:rosequartz",
+    "witheringboon:peridot",
+    "witheringboon:kyanite",
+    "witheringboon:tanzanite"
+  ],
+  "soundEvent": "minecraft:block.amethyst_cluster.hit"
+}
