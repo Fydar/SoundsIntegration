@@ -1,0 +1,16 @@
+{
+  "keys": [
+    "minecolonies:scan_analyzer",
+    "minecolonies:scepterbeekeeper",
+    "minecolonies:scepterguard",
+    "minecolonies:scepterlumberjack",
+    "minecolonies:scepterpermission",
+    "minecolonies:spear",
+    "structurize:caliper",
+    "structurize:sceptergold",
+    "structurize:sceptersteel",
+    "structurize:sceptertag",
+    "structurize:shapetool"
+  ],
+  "soundEvent": "minecraft:item.axe.strip"
+}

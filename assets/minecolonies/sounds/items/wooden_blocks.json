@@ -1,0 +1,12 @@
+{
+  "keys": [
+    "minecolonies:banner_rally_guards",
+    "minecolonies:supplychestdeployer",
+    "minecolonies:blockconstructiontape",
+    "minecolonies:supplycampdeployer",
+    "minecolonies:gate_wood",
+    "minecolonies:colony_banner",
+    "multipiston:multipistonblock"
+  ],
+  "soundEvent": "sounds:block.oak_log.hit"
+}

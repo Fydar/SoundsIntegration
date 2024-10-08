@@ -1,0 +1,10 @@
+{
+  "keys": [
+    "minecolonies:large_empty_bottle",
+    "minecolonies:large_milk_bottle",
+    "minecolonies:large_soy_milk_bottle",
+    "minecolonies:large_water_bottle",
+    "minecolonies:magicpotion"
+  ],
+  "soundEvent": "minecraft:item.bottle.fill"
+}

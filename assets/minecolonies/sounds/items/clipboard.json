@@ -1,0 +1,7 @@
+{
+    "keys": [
+      "minecolonies:clipboard"
+    ],
+    "soundEvent": "minecraft:ui.cartography_table.take_result",
+    "pitch": 2
+  }

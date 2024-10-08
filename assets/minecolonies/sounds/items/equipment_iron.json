@@ -1,0 +1,13 @@
+{
+  "keys": [
+    "minecolonies:build_goggles",
+    "minecolonies:chiefsword",
+    "minecolonies:iron_scimitar",
+    "minecolonies:pharaoscepter",
+    "minecolonies:plate_armor_boots",
+    "minecolonies:plate_armor_chest",
+    "minecolonies:plate_armor_helmet",
+    "minecolonies:plate_armor_legs"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_iron"
+}

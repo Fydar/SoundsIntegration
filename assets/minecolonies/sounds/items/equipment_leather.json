@@ -1,0 +1,13 @@
+{
+  "keys": [
+    "minecolonies:pirate_cap",
+    "minecolonies:pirate_chest",
+    "minecolonies:pirate_hat",
+    "minecolonies:pirate_leggins",
+    "minecolonies:pirate_legs",
+    "minecolonies:pirate_shoes",
+    "minecolonies:pirate_top",
+    "minecolonies:santa_hat"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_leather"
+}

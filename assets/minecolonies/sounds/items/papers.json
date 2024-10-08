@@ -1,0 +1,11 @@
+{
+  "keys": [
+    "minecolonies:resourcescroll",
+    "minecolonies:scroll_tp",
+    "minecolonies:scroll_area_tp",
+    "minecolonies:scroll_buff",
+    "minecolonies:scroll_guard_help",
+    "minecolonies:scroll_highlight"
+  ],
+  "soundEvent": "minecraft:item.book.page_turn"
+}
