@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "minecraft:nether_star"
+  ],
+  "soundEvent": "minecraft:block.amethyst_cluster.hit"
+}

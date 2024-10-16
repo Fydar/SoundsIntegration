@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "minecraft:blaze_powder"
+  ],
+  "soundEvent": "minecraft:entity.blaze.burn"
+}

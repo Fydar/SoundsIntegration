@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "minecraft:gunpowder",
+    "minecraft:redstone",
+    "minecraft:glowstone_dust",
+    "minecraft:sugar"
+  ],
+  "soundEvent": "minecraft:block.sand.break"
+}

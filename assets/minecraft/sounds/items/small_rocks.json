@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "minecraft:prismarine_crystals"
+  ],
+  "soundEvent": "minecraft:entity.wither_skeleton.step",
+  "volume": 0.2
+}

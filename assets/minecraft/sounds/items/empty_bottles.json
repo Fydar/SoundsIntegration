@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "minecraft:glass_bottle",
+    "minecraft:blaze_rod"
+  ],
+  "soundEvent": "sounds:block.glass.step"
+}

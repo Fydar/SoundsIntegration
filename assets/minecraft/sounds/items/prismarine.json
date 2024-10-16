@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "minecraft:prismarine_shard",
+    "minecraft:nautilus_shell"
+  ],
+  "soundEvent": "minecraft:block.decorated_pot.step"
+}
