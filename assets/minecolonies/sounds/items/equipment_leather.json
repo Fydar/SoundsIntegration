@@ -6,8 +6,11 @@
     "minecolonies:pirate_leggins",
     "minecolonies:pirate_legs",
     "minecolonies:pirate_shoes",
+    "minecolonies:pirate_boots",
     "minecolonies:pirate_top",
-    "minecolonies:santa_hat"
+    "minecolonies:santa_hat",
+    "minecolonies:sifter_mesh_string",
+    "minecolonies:sifter_mesh_flint"
   ],
   "soundEvent": "minecraft:item.armor.equip_leather"
 }

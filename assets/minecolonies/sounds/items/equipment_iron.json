@@ -7,7 +7,8 @@
     "minecolonies:plate_armor_boots",
     "minecolonies:plate_armor_chest",
     "minecolonies:plate_armor_helmet",
-    "minecolonies:plate_armor_legs"
+    "minecolonies:plate_armor_legs",
+    "minecolonies:sifter_mesh_iron"
   ],
   "soundEvent": "minecraft:item.armor.equip_iron"
 }

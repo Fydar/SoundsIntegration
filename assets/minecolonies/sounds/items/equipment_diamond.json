@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "minecolonies:sifter_mesh_diamond"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_diamond"
+}
